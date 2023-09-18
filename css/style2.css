@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.img{
+    position: absolute;
+    top: 5%;
+    z-index: 0;
+    animation: fadeIn 1s ease-in;
+}
+.w1{
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    top: 60px;
+    left: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.5);
+    animation: fadeIn 2.5s ease-in;
+}
+
+.w2{
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    bottom: 100px;
+    right: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.5);
+    animation: fadeIn 2.5s ease-in;
+    
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1; 
+    }
+}

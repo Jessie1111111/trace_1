@@ -1,0 +1,61 @@
+Website:
+https://cc-portfolio-jessie-liu.glitch.me/
+This is the website that I created for the projects last semester. It actually comes out very 
+slowly everytime, so I want to check out the IP address to see if I can find something.
+
+1   [52.119.64.65]
+Country：United States
+Region:NewYork
+City：NewYork
+Latitude：40.713192
+Longtitude:-74.006065
+Domain name:naturalwireless.com
+
+2   [206.82.104.108]
+Country：United States
+Region:NewYork
+City:NewYork
+Latitude:40.75831
+Longitude:-73.968041
+Domain name:de-cix.net
+
+3   [206.82.104.132]
+Country：United States
+Region:NewYork
+City：NewYork
+Latitude:40.75831
+Longitude:-73.968041
+Domain name:de-cix.net
+
+New York City, often simply called New York, is a dynamic and globally influential metropolis 
+famed for its towering skyscrapers, rich cultural tapestry, and unparalleled economic and artistic 
+opportunities.
+
+4  [52.93.247.175]
+Country：United States
+Region:Washington
+City：Seattle
+Latitude:47.6275
+Longitude:-122.3462
+Domain name:amazon.com
+
+Seattle, nestled in the Pacific Northwest of Washington state, is a thriving city renowned for its 
+stunning natural surroundings, including the Puget Sound and the Cascade and Olympic 
+mountain ranges, and is celebrated for its innovative tech industry, vibrant arts scene, and 
+coffee culture. Its iconic Space Needle stands tall as a symbol of both its forward-thinking spirit 
+and its breathtaking views of the city and its surroundings.
+
+5   [52.93.28.226]
+Country：United States
+Region:Virginia
+City:Ashburn
+Latitude:39.039474
+Longitude:-77.491809
+Domain name:amazon.com
+Ashburn, located in northern Virginia, is a bustling suburban community known for its strategic 
+proximity to the nation's capital, Washington, D.C., and its role as a major technology and data 
+center hub, with numerous tech companies and data facilities in the area. This vibrant town 
+combines suburban living with access to top-notch amenities, making it an attractive destination 
+for families and professionals alike.
+
+

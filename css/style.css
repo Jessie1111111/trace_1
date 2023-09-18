@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.title{
+    background-color: rgba(111, 144, 213, 0.752);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.w1{
+    color: aliceblue;
+    margin-left: 0%;
+    animation: blink 0.5s infinite;
+    animation: moveLeft 4s linear infinite; 
+
+}
+
+.w2{
+    color: aliceblue;
+    margin-left: 20%;
+   
+    animation: moveLeft 3s linear infinite; 
+}
+
+.w3{
+    color: aliceblue;
+    margin-left: 40%;
+   
+    animation: moveLeft 2s linear infinite; 
+}
+
+.w4{
+    color: aliceblue;
+    margin-left: 60%;
+    
+    animation: moveLeft 1s linear infinite; 
+}
+
+.button1{
+    position: absolute;
+    background-color: rgba(111, 144, 213, 0.752);
+    font-size: 40px;
+    top: 50%;
+    left: 35%;
+    line-height: 50px;   
+    animation: blink 1s infinite;
+}
+.button2{
+    position: absolute;
+    background-color: rgba(111, 144, 213, 0.752);
+    font-size: 30px;
+    top: 70%;
+    left: 35%;
+    line-height: 50px;   
+    animation: blink 1s infinite;
+}
+
+.link{
+    color: rgb(255, 255, 255);
+}
+
+
+
+@keyframes blink {
+    20% { opacity: 1; } 
+    50% { opacity: 0; } 
+    100% { opacity: 1; } 
+}
+
+@keyframes moveLeft {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
